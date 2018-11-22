@@ -1,0 +1,103 @@
+body{
+	font-family: 'Noto Sans', sans-serif;
+}
+
+#wrapper{
+	width: 1000px;
+	margin: 0 auto; 
+}
+
+#header{
+	margin-top: 100px;
+}
+
+#menu{
+	padding: 20px;
+	background-color: grey;
+	margin-top: 40px;
+}
+
+#menu a{
+	padding: 0 40px;
+	font-size: 20px;
+	color: white;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0;
+}
+
+li{
+	border: 1px solid silver;
+	border-bottom: 0;
+	padding: 10px 20px;
+	color: gray;
+}
+
+#last_li{
+	border-bottom: 1px solid silver;
+}
+
+#bicycle_photo{
+	width: 650px;
+}
+
+#content{
+	margin-top: 50px;
+}
+
+#navigator{
+	width: 300px; ;
+	float: left;
+}
+
+#navigator a{
+	color: gray;
+}
+
+#info_o_tovare{
+	margin-left: 50px;
+	float: left;
+	width: 650px;
+	margin-top: 15px;
+}
+
+#info_o_tovare img{
+	border: 1px solid silver;
+	width: 500px;
+	padding: 75px;
+}
+
+#info_o_tovare p{
+	margin-top: 40px;
+	padding: 0 20px;
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+
+#footer{
+	clear: both;
+	float: left;
+	background-color: silver;
+	font-size: 16px;
+	margin-top: 80px;
+	width: 960px;
+	padding: 20px;
+	margin-bottom: 50px;
+}
+
+#footer a {
+	padding: 0 40px;
+	color: black;
+}
+
+#last_text{
+	float: right;
+}
